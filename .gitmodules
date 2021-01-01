@@ -13,3 +13,6 @@
 [submodule "workspaces/healthy-habits"]
 	path = workspaces/healthy-habits
 	url = https://github.com/vibe/healthyhabits
+[submodule "conf.d"]
+	path = conf.d
+	url = https://github.com/vibe/conf.d
