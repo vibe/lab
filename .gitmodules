@@ -1,0 +1,15 @@
+[submodule "workspaces/antithesis"]
+	path = workspaces/antithesis
+	url = https://github.com/antithesis/antithesis
+[submodule "workspaces/rerent"]
+	path = workspaces/rerent
+	url = https://github.com/antithesis/rerent
+[submodule "workspaces/open-source/yarn-poetry"]
+	path = workspaces/open-source/yarn-poetry
+	url = https://github.com/vibe/yarn-poetry
+[submodule "workspaces/posture-pro"]
+	path = workspaces/posture-pro
+	url = https://github.com/vibe/posture-pro
+[submodule "workspaces/healthy-habits"]
+	path = workspaces/healthy-habits
+	url = https://github.com/vibe/healthyhabits
