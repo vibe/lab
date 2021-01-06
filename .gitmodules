@@ -16,3 +16,6 @@
 [submodule "conf.d"]
 	path = conf.d
 	url = https://github.com/vibe/conf.d
+[submodule "workspaces/lordpuffer"]
+	path = workspaces/lordpuffer
+	url = https://github.com/vibe/lordpuffer
