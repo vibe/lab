@@ -19,3 +19,6 @@
 [submodule "workspaces/lordpuffer"]
 	path = workspaces/lordpuffer
 	url = https://github.com/vibe/lordpuffer
+[submodule "workspaces/notadonis"]
+	path = workspaces/notadonis
+	url = https://github.com/vibe/notadonis
